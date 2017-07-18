@@ -3,7 +3,7 @@
 //! # Example usage:
 //!
 //! ```rust
-//! use looper::{Handler, Sender, run};
+//! use mrogalski_looper::{Handler, Sender, run};
 //!
 //! struct ExampleHandler {
 //!     data: Vec<i32>,
