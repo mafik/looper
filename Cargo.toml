@@ -1,6 +1,6 @@
 [package]
 name = "mrogalski-looper"
-version = "1.0.2"
+version = "1.0.3"
 authors = ["Marek Rogalski <mafikpl@gmail.com>"]
 description = "Clean abstraction for a single-threaded event loop. Built as a lightweight wrapper around the std::sync::mpsc package."
 repository = "https://github.com/mafik/looper"
@@ -16,5 +16,4 @@ travis-ci = { repository = "mafik/looper" }
 appveyor = { repository = "mafik/looper" }
 is-it-maintained-issue-resolution = { repository = "mafik/looper" }
 is-it-maintained-open-issues = { repository = "mafik/looper" }
-codecov = { repository = "mafik/looper" }
 coveralls = { repository = "mafik/looper" }
