@@ -1,5 +1,5 @@
 [package]
-name = "looper"
+name = "mrogalski-looper"
 version = "1.0.0"
 authors = ["Marek Rogalski <mafikpl@gmail.com>"]
 description = "Clean abstraction for a single-threaded event loop. Built as a lightweight wrapper around the std::sync::mpsc package."
