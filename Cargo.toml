@@ -3,8 +3,7 @@ name = "mrogalski-looper"
 version = "1.0.0"
 authors = ["Marek Rogalski <mafikpl@gmail.com>"]
 description = "Clean abstraction for a single-threaded event loop. Built as a lightweight wrapper around the std::sync::mpsc package."
-homepage = "https://github.com/mafik/looper"
-repository = "https://github.com/mafik/looper.git"
+repository = "https://github.com/mafik/looper"
 
 keywords = ["looper", "loop", "event", "thread", "single"]
 categories = ["concurrency", "rust-patterns", "network-programming", "asynchronous"]
@@ -13,8 +12,9 @@ license = "Apache-2.0"
 [dependencies]
 
 [badges]
-appveyor = { repository = "https://github.com/mafik/looper.git" }
-is-it-maintained-issue-resolution = { repository = "https://github.com/mafik/looper.git" }
-is-it-maintained-open-issues = { repository = "https://github.com/mafik/looper.git" }
-codecov = { repository = "https://github.com/mafik/looper.git" }
-coveralls = { repository = "https://github.com/mafik/looper.git" }
+travis-ci = { repository = "mafik/looper" }
+appveyor = { repository = "mafik/looper" }
+is-it-maintained-issue-resolution = { repository = "mafik/looper" }
+is-it-maintained-open-issues = { repository = "mafik/looper" }
+codecov = { repository = "mafik/looper" }
+coveralls = { repository = "mafik/looper" }
